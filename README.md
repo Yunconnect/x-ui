@@ -1,4 +1,4 @@
-# x-ui
+# Xray Panel
 
 支持多协议多用户的 xray 面板
 
